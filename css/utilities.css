@@ -71,19 +71,19 @@
 /* TEXT COLOURS */
 
 .text-primary {
-    background-color: var(--primary-color);
+    color: var(--primary-color);
 }
 
 .text-secondary {
-    background-color: var(--secondary-color);
+    color: var(--secondary-color);
 }
 
 .text-dark {
-    background-color: var(--dark-color);
+    color: var(--dark-color);
 }
 
 .text-light {
-    background-color: var(--light-color);
+    color: var(--light-color);
 }
 
 /* TEXT SIZES */
