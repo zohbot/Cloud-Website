@@ -298,7 +298,7 @@ code, pre {
 }
 @keyframes slideinfromtop {
     0% {
-        transform: translateY(100%);
+        transform: translateY(-100%);
     }
     100% {
         transform: translateX(0%);
