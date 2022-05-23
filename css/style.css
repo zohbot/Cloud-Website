@@ -296,7 +296,7 @@ code, pre {
         transform: translateX(0%);
     }
 }
-@keyframes slideinfromtop {
+@keyframes SlideInFromTop {
     0% {
         transform: translateY(-100%);
     }
