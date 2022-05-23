@@ -374,7 +374,7 @@ code, pre {
         padding: 10px;
         background-color: rgba(0, 0, 0, 0.1);
     }
-    .showcase-form {
+    .showcase-form .card {
         width: 300px;
     }
 }
