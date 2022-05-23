@@ -332,7 +332,7 @@ code, pre {
     .showcase-text {
         text-align: center;
         margin-top: 40px;
-        animation: slideinfromtop 1s ease-in;
+        animation: SlideInFromTop 1s ease-in;
     }
     .showcase-form {
         justify-self: center;
