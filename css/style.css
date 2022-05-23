@@ -270,6 +270,14 @@ code, pre {
     margin: 0 10px;
 }
 
+.fa-linkedin:hover {
+    color: yellow;
+}
+
+.fa-500px:hover {
+    color: #d9534f;
+}
+
 .fa-github:hover {
     color: #000000;
   }
